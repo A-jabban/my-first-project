@@ -2,3 +2,5 @@ My first git project
 
 today I am learning GIT!
 this is my first commit
+
+more changes now have been applied
